@@ -142,3 +142,12 @@ D:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 D:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\FilmesApi.xml
 D:\ALURA\.NET\ASP.NET\FilmesApi\obj\Debug\net7.0\FilmesApi.xml
+E:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\FilmesApi.xml
+E:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\ALURA\.NET\ASP.NET\FilmesApi\obj\Debug\net7.0\FilmesApi.xml
+D:\ALURA\.NET\ASP.NET\FilmesApi\obj\Debug\net7.0\FilmesApi.sourcelink.json
+D:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Castle.Core.dll
+D:\ALURA\.NET\ASP.NET\FilmesApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
